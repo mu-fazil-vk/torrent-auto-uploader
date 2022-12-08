@@ -4,7 +4,7 @@
 
 ## About the Torrent Auto Uploader
 
-The [Torrent Auto Uploader](https://github.com/Fazil-vk/torrent-auto-uploader) is a script for creating Telegram bot, that uploades when new movies found on torrent site, then it auto upload to given channel.
+The [Torrent Auto Uploader](https://github.com/mu-fazil-vk/torrent-auto-uploader) is a script for creating Telegram bot, that uploades when new movies found on torrent site, then it auto upload to given channel.
 
 _**⚠️ Warning:** Is torrenting legal or illegal? Torrenting itself isn’t illegal, but downloading unsanctioned copyrighted material is. It’s not always immediately apparent which content is legal to torrent and which isn’t. Some fall in a gray area, so you may find yourself unwittingly on the wrong side of the law. I am not recomenting to use this._
 
